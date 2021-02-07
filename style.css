@@ -1,0 +1,37 @@
+body{
+    background-color: lightyellow;
+}
+
+#search-meal{
+    background-color: lightgrey;
+}
+#search-btn{
+    color: white;
+    background-color: #bb9e98;
+}
+#warning-text{
+    padding-left: 5%;
+    height: 50px;
+}
+
+.meal-image{
+    width: 100%;
+    margin: 10px;
+
+}
+.meal-title{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#meal-details{
+    display: none;
+    margin-bottom: 30px;
+    background-color: #ececec;
+    padding: 10px;
+    border-radius: 5%;
+}
+.single-meal-image{
+    width: 100px;
+    margin: auto;
+}
