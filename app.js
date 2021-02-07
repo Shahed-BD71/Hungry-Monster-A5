@@ -61,8 +61,8 @@ function displayMealDetail(meal) {
     document.getElementById("single-meal").innerHTML = `
     <div class="container">   
         <div>
-            <img class="meal-details-image" src=${meal.strMealThumb}>
-            <h2 class="meal-details-title">${meal.strMeal}</h2>
+            <img src=${meal.strMealThumb}>
+            <h2>${meal.strMeal}</h2>
         </div>
         <div>
             <h5>Ingredients</h5>

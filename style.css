@@ -4,6 +4,7 @@ body{
 
 #search-meal{
     background-color: lightgrey;
+
 }
 #search-btn{
     color: white;
@@ -25,13 +26,9 @@ body{
 }
 
 #meal-details{
-    display: none;
     margin-bottom: 30px;
     background-color: #ececec;
     padding: 10px;
     border-radius: 5%;
-}
-.single-meal-image{
-    width: 100px;
-    margin: auto;
+    display: none;
 }
